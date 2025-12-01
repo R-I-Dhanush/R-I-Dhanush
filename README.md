@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**R-I-Dhanush/R-I-Dhanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dhanush 👋
 
-Here are some ideas to get you started:
+I'm a Java Developer passionate about building backend applications using Spring Boot, Hibernate, and MySQL.  
+I focus on writing clean, maintainable code and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- *Programming:* Java  
+- *Backend:* Spring Boot, Hibernate  
+- *Database:* MySQL  
+- *Tools:* Git, GitHub, Postman, Eclipse, IntelliJ  
+- *Other:* REST APIs, OOPs, Collections Framework
+
+---
+
+## 📘 Projects
+Here are some of my recent projects:
+
+- *Spring Boot CRUD Application* – Basic CRUD operations with API endpoints  
+- *Student Management System* – Java + DB-based student handling project  
+- *Hibernate One-to-Many Mapping* – Example of Hibernate relationships  
+- *Password Generator (Java)* – Generates secure random passwords  
+- *Employee Salary Calculator* – Salary calculation using Java
+
+---
+
+## 🎯 What I’m Currently Learning
+- Advanced Spring Boot  
+- Full-stack development  
+- SQL optimization  
+
+---
+
+## 📬 Connect With Me
+- *GitHub:* https://github.com/R-I-Dhanush
+
+---
+
+Thanks for visiting my profile!
